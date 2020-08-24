@@ -1,0 +1,3 @@
+# Task Management Application Front-end
+
+This React application acts as the front-end for the Task Management application, the Backend was developed with NestJS, both are deployed to AWS.
