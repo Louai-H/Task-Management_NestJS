@@ -16,8 +16,8 @@ Louai Hamada - Full Stack Developer
 
 ## Description
 
-This Modular backend Application was built with Node.js and NestJS (a Typscript, Angular like, framework) for Node.js scalable backend applications. PostgreSQL as a relational database served by RDS (Amazon Relational Database Service), and Hosted on Amazon Web Services (AWS) cloud platform.
-This app uses TypeORM as an "Object Relational Mapper" and includes Authentication and Authorization using JWT and Passport JS.
+This backend application was built with Node.js and NestJS (a Typscript, Angular like, modular framework) for Node.js scalable backend applications. PostgreSQL as a relational database served by RDS (Amazon Relational Database Service), and Hosted on Amazon Web Services (AWS) cloud platform.
+This app uses TypeORM as an "Object Relational Mapper" and includes Authentication and Authorization using JWT and Passport JS.  
 A front-end application was built with React.js to consume and interact with this backend application.
 Check the application: [Here](http://task-management-frontend-react.s3-website-us-west-2.amazonaws.com/)
 
